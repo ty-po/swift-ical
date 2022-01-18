@@ -194,7 +194,21 @@ extension RecurrenceRule: LibicalPropertyConvertible {
 }
 
 
+func recur() -> String{
+    var recur_instance = icalrecurrencetype_from_string(<#T##str: UnsafePointer<CChar>!##UnsafePointer<CChar>!#>)
+    var dtstart = icaltime_from_string(<#T##str: UnsafePointer<CChar>!##UnsafePointer<CChar>!#>)
+    
+    var iterate = icalrecur_iterator_new(<#T##rule: icalrecurrencetype##icalrecurrencetype#>, <#T##dtstart: icaltimetype##icaltimetype#>)
+    
+    var current = icalrecur_iterator_next(<#T##OpaquePointer!#>)
+    
+    return icaltime_as_ical_string(<#T##tt: icaltimetype##icaltimetype#>)
+}
 
+func expand(rule: icalrecurrencetype, start: Date, count: Int) -> Array<Date>{
+    var results = icalrecur_expand_recurrence(<#T##rule: UnsafePointer<CChar>!##UnsafePointer<CChar>!#>, <#T##start: time_t##time_t#>, <#T##count: Int32##Int32#>, <#T##array: UnsafeMutablePointer<time_t>!##UnsafeMutablePointer<time_t>!#>)
+    return results
+}
 
 
 /*
