@@ -27,7 +27,7 @@ extension RecurrenceRule {
 }
 
 
-class RecurranceTests: XCTestCase {
+class RecurrenceTests: XCTestCase {
     func testSimpleSecondlyRule() {
         let rule = RecurrenceRule(frequency: .secondly)
         XCTAssertEqual(rule.icalString, "RRULE:FREQ=SECONDLY")

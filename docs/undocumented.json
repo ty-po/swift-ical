@@ -178,7 +178,7 @@
     {
       "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Component.swift",
       "line": 329,
-      "symbol": "VEvent.recurranceRule",
+      "symbol": "VEvent.RecurrenceRule",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
@@ -211,296 +211,296 @@
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 4,
       "symbol": "Second",
       "symbol_kind": "source.lang.swift.decl.typealias",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 5,
       "symbol": "Minute",
       "symbol_kind": "source.lang.swift.decl.typealias",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 6,
       "symbol": "Hour",
       "symbol_kind": "source.lang.swift.decl.typealias",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 7,
       "symbol": "Day",
       "symbol_kind": "source.lang.swift.decl.typealias",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 8,
       "symbol": "MonthDay",
       "symbol_kind": "source.lang.swift.decl.typealias",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 9,
       "symbol": "YearDay",
       "symbol_kind": "source.lang.swift.decl.typealias",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 10,
       "symbol": "WeekNumber",
       "symbol_kind": "source.lang.swift.decl.typealias",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 11,
       "symbol": "Month",
       "symbol_kind": "source.lang.swift.decl.typealias",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 12,
       "symbol": "Setpos",
       "symbol_kind": "source.lang.swift.decl.typealias",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 44,
-      "symbol": "RecurranceRule.Weekday",
+      "symbol": "RecurrenceRule.Weekday",
       "symbol_kind": "source.lang.swift.decl.enum",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 45,
-      "symbol": "RecurranceRule.Weekday.sunday",
+      "symbol": "RecurrenceRule.Weekday.sunday",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 46,
-      "symbol": "RecurranceRule.Weekday.monday",
+      "symbol": "RecurrenceRule.Weekday.monday",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 47,
-      "symbol": "RecurranceRule.Weekday.tuesday",
+      "symbol": "RecurrenceRule.Weekday.tuesday",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 48,
-      "symbol": "RecurranceRule.Weekday.wednesday",
+      "symbol": "RecurrenceRule.Weekday.wednesday",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 49,
-      "symbol": "RecurranceRule.Weekday.thursday",
+      "symbol": "RecurrenceRule.Weekday.thursday",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 50,
-      "symbol": "RecurranceRule.Weekday.friday",
+      "symbol": "RecurrenceRule.Weekday.friday",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 51,
-      "symbol": "RecurranceRule.Weekday.saturday",
+      "symbol": "RecurrenceRule.Weekday.saturday",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 54,
-      "symbol": "RecurranceRule.Month",
+      "symbol": "RecurrenceRule.Month",
       "symbol_kind": "source.lang.swift.decl.enum",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 55,
-      "symbol": "RecurranceRule.Month.janurary",
+      "symbol": "RecurrenceRule.Month.janurary",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 56,
-      "symbol": "RecurranceRule.Month.february",
+      "symbol": "RecurrenceRule.Month.february",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 57,
-      "symbol": "RecurranceRule.Month.march",
+      "symbol": "RecurrenceRule.Month.march",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 58,
-      "symbol": "RecurranceRule.Month.april",
+      "symbol": "RecurrenceRule.Month.april",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 59,
-      "symbol": "RecurranceRule.Month.may",
+      "symbol": "RecurrenceRule.Month.may",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 60,
-      "symbol": "RecurranceRule.Month.june",
+      "symbol": "RecurrenceRule.Month.june",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 61,
-      "symbol": "RecurranceRule.Month.july",
+      "symbol": "RecurrenceRule.Month.july",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 62,
-      "symbol": "RecurranceRule.Month.august",
+      "symbol": "RecurrenceRule.Month.august",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 63,
-      "symbol": "RecurranceRule.Month.september",
+      "symbol": "RecurrenceRule.Month.september",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 64,
-      "symbol": "RecurranceRule.Month.october",
+      "symbol": "RecurrenceRule.Month.october",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 65,
-      "symbol": "RecurranceRule.Month.november",
+      "symbol": "RecurrenceRule.Month.november",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 66,
-      "symbol": "RecurranceRule.Month.december",
+      "symbol": "RecurrenceRule.Month.december",
       "symbol_kind": "source.lang.swift.decl.enumelement",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 78,
-      "symbol": "RecurranceRule.frequency",
+      "symbol": "RecurrenceRule.frequency",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 79,
-      "symbol": "RecurranceRule.until",
+      "symbol": "RecurrenceRule.until",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 80,
-      "symbol": "RecurranceRule.count",
+      "symbol": "RecurrenceRule.count",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 92,
-      "symbol": "RecurranceRule.bySecond",
+      "symbol": "RecurrenceRule.bySecond",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 93,
-      "symbol": "RecurranceRule.byMinute",
+      "symbol": "RecurrenceRule.byMinute",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 94,
-      "symbol": "RecurranceRule.byHour",
+      "symbol": "RecurrenceRule.byHour",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 95,
-      "symbol": "RecurranceRule.byDay",
+      "symbol": "RecurrenceRule.byDay",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 96,
-      "symbol": "RecurranceRule.byMonthDay",
+      "symbol": "RecurrenceRule.byMonthDay",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 97,
-      "symbol": "RecurranceRule.byYearDay",
+      "symbol": "RecurrenceRule.byYearDay",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 98,
-      "symbol": "RecurranceRule.byWeekNumber",
+      "symbol": "RecurrenceRule.byWeekNumber",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 99,
-      "symbol": "RecurranceRule.byMonth",
+      "symbol": "RecurrenceRule.byMonth",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },
     {
-      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrance.swift",
+      "file": "/Users/thomasbartelmess/Developer/SwiftIcal/Sources/SwiftIcal/Recurrence.swift",
       "line": 100,
-      "symbol": "RecurranceRule.bySetpos",
+      "symbol": "RecurrenceRule.bySetpos",
       "symbol_kind": "source.lang.swift.decl.var.instance",
       "warning": "undocumented"
     },

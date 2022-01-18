@@ -388,7 +388,7 @@ public struct VEvent {
 
     public var created: Date = Date()
 
-    public var recurranceRule: RecurrenceRule?
+    public var recurrenceRule: RecurrenceRule?
 
     public var duration: TimeInterval?
 
